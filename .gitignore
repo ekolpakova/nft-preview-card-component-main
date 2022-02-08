@@ -16,4 +16,4 @@
 .prettierignore
 
 #Ignore .idea folder
-.idea
+.idea/
