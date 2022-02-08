@@ -60,7 +60,7 @@ body {
     background-color: var(--very-dark-blue-main);
 }
 
-p {
+p, h2 {
     margin: 0;
 }
 
@@ -127,6 +127,7 @@ main {
     font-weight: 600;
     font-size: 1.2em;
     color: var(--white);
+    padding: 1em 0;
 }
 
 .card__description p {
