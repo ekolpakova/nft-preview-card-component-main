@@ -161,7 +161,7 @@ main {
 }
 
 hr {
-    height: 1px;
+    height: 2px;
     background-color: var(--very-dark-blue-line);
     border: none;
 }
